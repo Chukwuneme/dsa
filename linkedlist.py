@@ -1,11 +1,10 @@
 class Node():
-	"""represents a single music in the list"""
 	def __init__(self, val):
 		self.val = val
 		self.next = None
 
 class LinkedList():
-	"""represents a music playlist"""
+
 	def __init__(self):
 		self.head = None
 
