@@ -1,3 +1,4 @@
+
 class Music():
 	"""represents a single music in the list"""
 	def __init__(self, name):
